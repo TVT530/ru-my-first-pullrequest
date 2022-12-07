@@ -4,10 +4,9 @@ Hello, Hexlet!
 
 Its my scripts in this rep!
 
-И здесь добавим строку!
-hello everybody!:)
 
-Hello ^_^+ one more line
+
+Hello everybody!
 
 Ну привет
 
